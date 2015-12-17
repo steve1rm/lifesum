@@ -5,34 +5,34 @@
             <gradient
                 android:centerX="0.5"
                 android:centerY="0.3"
-                android:endColor="#cec7c0"
+                android:endColor="#aebfb4"
                 android:gradientRadius="300dp"
-                android:startColor="#f1eeeb"
-                android:type="radial"/>
+                android:startColor="#f8fafa"
+                android:type="radial" />
         </shape>
     </item>
 
-    <item>
-        <scale
-            android:scaleHeight="100%"
-            android:scaleWidth="100%"
-            android:scaleGravity="center"
-            android:drawable="@drawable/peas"/>
+    <item
+        android:width="@dimen/width"
+        android:height="@dimen/height"
+        android:top="@dimen/peas_top"
+        android:left="@dimen/peas_left"
+        android:drawable="@drawable/peas">
     </item>
 
     <item
-        android:width="68dp"
-        android:height="68dp"
-        android:drawable="@drawable/orange"
-        android:left="350dp"
-        android:top="400dp"/>
+        android:width="@dimen/width"
+        android:height="@dimen/height"
+        android:top="@dimen/orange_top"
+        android:left="@dimen/orange_left"
+        android:drawable="@drawable/orange">
+    </item>
 
     <item
-        android:width="128dp"
-        android:height="128dp"
-        android:drawable="@drawable/orange"
-        android:left="-20dp"
-        android:top="480dp"/>
-
-
+        android:width="@dimen/width"
+        android:height="@dimen/height"
+        android:top="@dimen/salad_top"
+        android:left="@dimen/salad_left"
+        android:bottom="@dimen/salad_bottom"
+        android:drawable="@drawable/salad"/>
 </layer-list>
