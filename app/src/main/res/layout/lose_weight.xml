@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:clickable="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="12dp"
+    android:paddingBottom="12dp"
+    android:gravity="center_horizontal"
+    android:background="@drawable/button_shape">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lose Weight"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:fontFamily="sans-serif-medium"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:text="Get leaner and increase your\nstamina"
+        android:textSize="14sp"
+        android:textColor="@android:color/black"
+        android:fontFamily="sans-serif"/>
+</LinearLayout>
