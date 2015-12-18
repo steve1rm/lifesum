@@ -3,12 +3,14 @@
     <dimen name="peas_top">120dp</dimen>
     <dimen name="peas_left">-32dp</dimen>
 
-    <dimen name="orange_top">380dp</dimen>
+    <dimen name="orange_top">350dp</dimen>
     <dimen name="orange_left">280dp</dimen>
 
-    <dimen name="salad_top">460dp</dimen>
+    <dimen name="salad_top">420dp</dimen>
     <dimen name="salad_left">-20dp</dimen>
-    <dimen name="salad_bottom">-20dp</dimen>
+
+    <dimen name="salad_height">144dp</dimen>
+    <dimen name="salad_width">144dp</dimen>
 
     <dimen name="height">72dp</dimen>
     <dimen name="width">72dp</dimen>

@@ -6,9 +6,12 @@
     <dimen name="orange_top">380dp</dimen>
     <dimen name="orange_left">330dp</dimen>
 
-    <dimen name="salad_top">490dp</dimen>
+    <dimen name="salad_top">480dp</dimen>
     <dimen name="salad_left">-20dp</dimen>
     <dimen name="salad_bottom">-20dp</dimen>
+
+    <dimen name="salad_height">144dp</dimen>
+    <dimen name="salad_width">144dp</dimen>
 
     <dimen name="height">96dp</dimen>
     <dimen name="width">96dp</dimen>

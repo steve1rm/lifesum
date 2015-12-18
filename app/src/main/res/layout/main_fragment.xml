@@ -50,6 +50,7 @@
         android:textColor="@android:color/black"
         android:fontFamily="sans-serif-light"/>
 
+<!--
     <include
         layout="@layout/be_healthier"
         android:layout_width="260dp"
@@ -67,6 +68,7 @@
         android:layout_width="260dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"/>
+-->
 
 
 

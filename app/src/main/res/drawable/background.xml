@@ -29,10 +29,11 @@
     </item>
 
     <item
-        android:width="@dimen/width"
-        android:height="@dimen/height"
+        android:width="@dimen/salad_width"
+        android:height="@dimen/salad_height"
         android:top="@dimen/salad_top"
         android:left="@dimen/salad_left"
         android:bottom="@dimen/salad_bottom"
         android:drawable="@drawable/salad"/>
+
 </layer-list>
