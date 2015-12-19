@@ -14,4 +14,11 @@
 
     <dimen name="height">72dp</dimen>
     <dimen name="width">72dp</dimen>
+
+    <dimen name="login_button_width">244dp</dimen>
+    <dimen name="login_button_height">32dp</dimen>
+    <dimen name="title_size">40sp</dimen>
+
+    <dimen name="buttons_padding">8dp</dimen>
+    <dimen name="button_menu_width">260dp</dimen>
 </resources>

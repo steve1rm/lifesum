@@ -4,15 +4,22 @@
     <dimen name="peas_left">-48dp</dimen>
 
     <dimen name="orange_top">380dp</dimen>
-    <dimen name="orange_left">310dp</dimen>
+    <dimen name="orange_left">300dp</dimen>
 
     <dimen name="salad_top">470dp</dimen>
-    <dimen name="salad_left">-40dp</dimen>
+    <dimen name="salad_left">-30dp</dimen>
     <dimen name="salad_bottom">-20dp</dimen>
 
-    <dimen name="salad_height">144dp</dimen>
-    <dimen name="salad_width">144dp</dimen>
+    <dimen name="salad_height">192dp</dimen>
+    <dimen name="salad_width">192dp</dimen>
 
     <dimen name="height">96dp</dimen>
     <dimen name="width">96dp</dimen>
+
+    <dimen name="login_button_width">270dp</dimen>
+    <dimen name="login_button_height">42dp</dimen>
+    <dimen name="title_size">48sp</dimen>
+
+    <dimen name="buttons_padding">12dp</dimen>
+    <dimen name="button_menu_width">280dp</dimen>
 </resources>

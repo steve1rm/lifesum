@@ -4,7 +4,7 @@
     <dimen name="peas_left">-44dp</dimen>
 
     <dimen name="orange_top">380dp</dimen>
-    <dimen name="orange_left">330dp</dimen>
+    <dimen name="orange_left">310dp</dimen>
 
     <dimen name="salad_top">480dp</dimen>
     <dimen name="salad_left">-20dp</dimen>
@@ -15,4 +15,11 @@
 
     <dimen name="height">96dp</dimen>
     <dimen name="width">96dp</dimen>
+
+    <dimen name="login_button_width">250dp</dimen>
+    <dimen name="login_button_height">38dp</dimen>
+    <dimen name="title_size">44sp</dimen>
+
+    <dimen name="buttons_padding">10dp</dimen>
+    <dimen name="button_menu_width">270dp</dimen>
 </resources>
