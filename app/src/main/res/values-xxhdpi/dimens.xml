@@ -6,8 +6,8 @@
     <dimen name="orange_top">380dp</dimen>
     <dimen name="orange_left">300dp</dimen>
 
-    <dimen name="salad_top">470dp</dimen>
-    <dimen name="salad_left">-30dp</dimen>
+    <dimen name="salad_top">420dp</dimen>
+    <dimen name="salad_left">-10dp</dimen>
     <dimen name="salad_bottom">-20dp</dimen>
 
     <dimen name="salad_height">192dp</dimen>

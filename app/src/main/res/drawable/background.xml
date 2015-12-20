@@ -39,8 +39,8 @@
         android:left="@dimen/salad_left"
         android:top="@dimen/salad_top">
         <bitmap
-            android:gravity="bottom|left|start"
-            android:src="@drawable/salad" />
+            android:gravity="left|start"
+            android:src="@drawable/salad"/>
     </item>
 
 </layer-list>
