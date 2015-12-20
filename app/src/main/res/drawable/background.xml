@@ -15,25 +15,32 @@
     <item
         android:width="@dimen/width"
         android:height="@dimen/height"
-        android:top="@dimen/peas_top"
         android:left="@dimen/peas_left"
-        android:drawable="@drawable/peas">
+        android:top="@dimen/peas_top">
+        <bitmap
+            android:gravity="left|start"
+            android:src="@drawable/peas" />
     </item>
 
     <item
         android:width="@dimen/width"
         android:height="@dimen/height"
-        android:top="@dimen/orange_top"
         android:left="@dimen/orange_left"
-        android:drawable="@drawable/orange">
+        android:top="@dimen/orange_top">
+        <bitmap
+            android:gravity="right|end"
+            android:src="@drawable/orange" />
     </item>
 
     <item
         android:width="@dimen/salad_width"
         android:height="@dimen/salad_height"
-        android:top="@dimen/salad_top"
-        android:left="@dimen/salad_left"
         android:bottom="@dimen/salad_bottom"
-        android:drawable="@drawable/salad"/>
+        android:left="@dimen/salad_left"
+        android:top="@dimen/salad_top">
+        <bitmap
+            android:gravity="bottom|left|start"
+            android:src="@drawable/salad" />
+    </item>
 
 </layer-list>
