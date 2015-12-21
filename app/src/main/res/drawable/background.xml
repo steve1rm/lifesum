@@ -33,8 +33,6 @@
     </item>
 
     <item
-        android:width="@dimen/salad_width"
-        android:height="@dimen/salad_height"
         android:bottom="@dimen/salad_bottom"
         android:left="@dimen/salad_left"
         android:top="@dimen/salad_top">
