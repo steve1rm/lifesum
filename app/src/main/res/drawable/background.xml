@@ -13,8 +13,6 @@
     </item>
 
     <item
-        android:width="@dimen/width"
-        android:height="@dimen/height"
         android:left="@dimen/peas_left"
         android:top="@dimen/peas_top">
         <bitmap
@@ -23,9 +21,7 @@
     </item>
 
     <item
-        android:width="@dimen/width"
-        android:height="@dimen/height"
-        android:left="@dimen/orange_left"
+        android:right="@dimen/orange_left"
         android:top="@dimen/orange_top">
         <bitmap
             android:gravity="right|end"

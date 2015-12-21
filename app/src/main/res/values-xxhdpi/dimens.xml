@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="peas_top">120dp</dimen>
-    <dimen name="peas_left">-48dp</dimen>
+    <dimen name="peas_top">-230dp</dimen>
+    <dimen name="peas_left">-20dp</dimen>
 
-    <dimen name="orange_top">380dp</dimen>
-    <dimen name="orange_left">300dp</dimen>
+    <dimen name="orange_top">250dp</dimen>
+    <dimen name="orange_left">-20dp</dimen>
 
     <dimen name="salad_top">450dp</dimen>
     <dimen name="salad_left">-20dp</dimen>
     <dimen name="salad_bottom">-20dp</dimen>
-
-    <dimen name="salad_height">192dp</dimen>
-    <dimen name="salad_width">192dp</dimen>
-
-    <dimen name="height">96dp</dimen>
-    <dimen name="width">96dp</dimen>
 
     <dimen name="login_button_width">270dp</dimen>
     <dimen name="login_button_height">42dp</dimen>
