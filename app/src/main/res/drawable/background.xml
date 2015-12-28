@@ -5,9 +5,9 @@
             <gradient
                 android:centerX="0.5"
                 android:centerY="0.3"
-                android:endColor="#aebfb4"
+                android:endColor="@color/colorBackgroundEnd"
                 android:gradientRadius="300dp"
-                android:startColor="#f8fafa"
+                android:startColor="@color/colorBackgroundStart"
                 android:type="radial" />
         </shape>
     </item>
@@ -36,5 +36,4 @@
             android:gravity="left|start"
             android:src="@drawable/salad"/>
     </item>
-
 </layer-list>
