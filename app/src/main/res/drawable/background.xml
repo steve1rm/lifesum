@@ -16,24 +16,23 @@
         android:left="@dimen/peas_left"
         android:top="@dimen/peas_top">
         <bitmap
-            android:gravity="left|start"
+            android:gravity="left|start|top"
             android:src="@drawable/peas" />
     </item>
 
     <item
         android:right="@dimen/orange_left"
-        android:top="@dimen/orange_top">
+        android:bottom="@dimen/orange_top">
         <bitmap
-            android:gravity="right|end"
+            android:gravity="right|end|bottom"
             android:src="@drawable/orange" />
     </item>
 
     <item
         android:bottom="@dimen/salad_bottom"
-        android:left="@dimen/salad_left"
-        android:top="@dimen/salad_top">
+        android:left="@dimen/salad_left">
         <bitmap
-            android:gravity="left|start"
+            android:gravity="left|start|bottom"
             android:src="@drawable/salad"/>
     </item>
 </layer-list>

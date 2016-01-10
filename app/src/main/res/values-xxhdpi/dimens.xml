@@ -6,7 +6,6 @@
     <dimen name="orange_top">320dp</dimen>
     <dimen name="orange_left">280dp</dimen>
 
-    <dimen name="salad_top">470dp</dimen>
     <dimen name="salad_left">-40dp</dimen>
     <dimen name="salad_bottom">-20dp</dimen>
 
