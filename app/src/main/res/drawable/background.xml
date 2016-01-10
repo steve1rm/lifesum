@@ -21,8 +21,8 @@
     </item>
 
     <item
-        android:right="@dimen/orange_left"
-        android:bottom="@dimen/orange_top">
+        android:right="@dimen/orange_right"
+        android:bottom="@dimen/orange_bottom">
         <bitmap
             android:gravity="right|end|bottom"
             android:src="@drawable/orange" />

@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="peas_top">120dp</dimen>
-    <dimen name="peas_left">-44dp</dimen>
+    <dimen name="peas_top">110dp</dimen>
+    <dimen name="peas_left">-35dp</dimen>
 
-    <dimen name="orange_top">380dp</dimen>
-    <dimen name="orange_left">330dp</dimen>
+    <dimen name="orange_bottom">110dp</dimen>
+    <dimen name="orange_right">-40dp</dimen>
 
-    <dimen name="salad_left">-20dp</dimen>
-    <dimen name="salad_bottom">-20dp</dimen>
-
-    <dimen name="height">96dp</dimen>
-    <dimen name="width">96dp</dimen>
+    <dimen name="salad_left">-40dp</dimen>
+    <dimen name="salad_bottom">-40dp</dimen>
 </resources>
