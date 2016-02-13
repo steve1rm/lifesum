@@ -7,4 +7,65 @@
     android:gravity="center_horizontal"
     android:background="@drawable/background">
 
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="sans-serif"
+        android:text="Lifesum"
+        android:textColor="@android:color/black"
+        android:textSize="40sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:text="Healthy living, simplified"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="sans-serif-light"
+        android:text="Got a Lifesum account"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:layout_width="244dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/login"
+        android:fontFamily="sans-serif"
+        android:text="LOG IN"
+        android:textColor="@android:color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-light"
+        android:text="New? Choose a plan:"
+        android:textColor="@android:color/black" />
+
+    <include
+        layout="@layout/be_healthier"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp" />
+
+    <include
+        layout="@layout/lose_weight"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+    <include
+        layout="@layout/gain_weight"
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
 </LinearLayout>
